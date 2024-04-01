@@ -1,0 +1,11 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.vuepress/public/assets/lib/**": true,
+    "**/.vuepress/.cache/**": true,
+    "**/.vuepress/.temp/**": true,
+    "**/dist/**": true,
+    "packages/*/lib/**": true
+  },
+  "workbench.iconTheme": "material-icon-theme"
+}
