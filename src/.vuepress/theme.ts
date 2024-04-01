@@ -43,7 +43,7 @@ export default hopeTheme({
     /**
      * English locale config
      */
-    "/en": {
+    "/en/": {
       // navbar
       navbar: enNavbar,
 
@@ -63,7 +63,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/en/demo/encrypt.html": ["1234"],
     },
   },
 
