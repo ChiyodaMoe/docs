@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: ic:round-home
 title: 主页
 heroImage: /logo.png
 bgImageStyle:
@@ -29,4 +29,3 @@ features:
 
 copyright: false
 ---
-

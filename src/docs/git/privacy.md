@@ -7,7 +7,7 @@ icon: material-symbols-light:private-connectivity-rounded
 
 # Privacy Policy
 
-Last updated: January 29, 2020
+**Last updated: January 29, 2020**
 
 ## Who We Are?
 

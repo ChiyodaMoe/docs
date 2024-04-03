@@ -2,180 +2,195 @@
 title: 服务条款
 icon: ri:service-fill
 ---
+
 <!-- markdownlint-disable MD025 -->
-# Privacy Policy
 
-Last updated: January 29, 2020
+# Terms of Service
 
-## Who We Are?
+**Last updated: January 29, 2020**
+Thank you for choosing Chiyoda Moe! Before you use it, please read this Terms of Service agreement carefully, which contains important contract between us and our users.
 
-Chiyoda Moe
+## Definitions
 
-## What Personal Data We Collect?
+An "Account" represents your legal relationship with Chiyoda Moe. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on Chiyoda Moe. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
+The "Agreement" collectively refers to all terms, conditions, and notices referenced or contained in this document and other operating rules, policies (including Privacy Policy) and procedures that we may publish from time to time on this Website.
+“Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
+"Chiyoda Moe", "We", and "Us" refers to Chiyoda Moe, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+The "Service" refers to applications/software, products, and services provided by Chiyoda Moe.
+The "User", "You", and "Your" refers to individual person or institution (organizations or company) that has visited or using the Service; that have access or use any part of the Account; or that directs to use the Account to perform its function. Please note that additional terms may apply for Accounts related to business or government.
+The "Website" refers to Chiyoda Moe's website at [Chiyoda Gitea](https://git.chiyoda.moe), including its subdomains and other websites owned by Chiyoda Moe.
 
-We collect following personal data (collectively called User Personal Information):
+## Account Terms
 
-1. Registration information (username, email, password, etc.)
-2. Profile information for your Account (such as your full name, biography, website, gpg key, and location.)
-3. Usage information (pages you view, your IP address, referring site, session information, and request date and time.)
-4. Device information (its IP address, client application information, language preference, operating system and application version, device type, ID, model and manufacturer.)
-5. Git data that you upload to a repository
-6. Cookies and Similar Technologies
+### Account Controls
 
-We may also collect User Personal Information from third-parties (vendors, partners, or affiliates). We don't purchase them from third-party data brokers, though.
+Users: Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
+Organizations. The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it. Within the Service, an owner can manage User access to the Organization’s data and projects. An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization. If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.
 
-However, we don't intentionally collect sensitive information (such as racial or ethnic origin, political affiliations, religious/philosophical beliefs, biometric data, etc.)
+### Required Information
 
-## How We Share Information We Collect?
+You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity).
 
-We may share your User Personal Information with third-parties under following circumstances:
+### Account Requirements
 
-### With your Consent
+You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:
+A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions.
+You must be age 13 or older. If we learn of any User under that age, we will immediately terminate that User's Account. Different countries may have different minimum age; in such cases you are responsible for complying with your country's regulation. By using Chiyoda Moe, you agree to comply with COPPA and/or similar law in your country.
 
-We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you allow third party applications to access your Account using OAuth2 providers, we share all information associated with your Account, including private repos and organizations. You may also direct us through your action on Chiyoda Moe to share your User Personal Information, such as when joining an Organization.
+### User Account Security
 
-### With Service Providers
+You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
 
-We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While Chiyoda Moe processes all User Personal Information in the (country/state where Gitea is deployed), our service providers may process data outside of (country/state where Gitea is deployed), the United States or the European Union.
+### Additional Terms
 
-### For Security Purposes
+In some situations, third parties' terms may apply to your use of Chiyoda Moe. For example, you may be a member of an organization on Chiyoda Moe with its own terms or license agreements; you may download an application that integrates with Chiyoda Moe; or you may use Chiyoda Moe to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a member of an Organization, Chiyoda Moe may share your username, Usage Information, and Device Information associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
+## Acceptable Use
 
-### For Legal Disclosure
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-Chiyoda Moe strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. Chiyoda Moe may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
+## User-Generated Content
 
-### Change in Control or Sale
+1. You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
+2. We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any our terms or policies.
+3. You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
+Because of above, we need you to grant us -- and other Chiyoda Moe users -- certain legal permissions, listed below in this section. If you upload Content that already comes with a license granting Chiyoda Moe the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted below. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
-### Aggregate, Non-Personally Identifying Information
+4. We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
 
-We share certain aggregated, non-personally identifying information with others about how our users, collectively, use Chiyoda Moe, or how our users respond to our other offerings, such as our conferences or events. For example, we may compile statistics on the open source activity across Chiyoda Moe.
+This license, however, doesn't grant Chiyoda Moe the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
 
-We don't sell your User Personal Information for monetary or other consideration.
+5. Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
 
-## How We Use Your Information?
+If you set your pages and repositories to be viewed publicly, you grant each User of Chiyoda Moe a nonexclusive, worldwide license to use, display, and perform Your Content through the Chiyoda Moe Service and to reproduce Your Content solely on Chiyoda Moe as permitted through Chiyoda Moe's functionality (for example, through forking). You may grant further rights if you adopt a license. If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other Chiyoda Moe Users.
 
-We may use your information for following purposes:
+6. Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
 
-1. We use your Registration Information to create your account, and to provide you the Service.
-2. We use your User Personal Information, specifically your username, to identify you on Chiyoda Moe.
-3. We use your Profile Information to fill out your Account profile and to share that profile with other users if you ask us to.
-4. We use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay.
-5. We use User Personal Information and other data to make recommendations for you, such as to suggest projects you may want to follow or contribute to. We learn from your public behavior on Chiyoda Moe—such as the projects you star—to determine your coding interests, and we recommend similar projects. These recommendations are automated decisions, but they have no legal impact on your rights.
-6. We use Usage Information and Device Information to better understand how our Users use Chiyoda Moe and to improve our Website and Service.
-7. We may use your User Personal Information if it is necessary for security purposes or to investigate possible fraud or attempts to harm Chiyoda Moe or our Users.
-8. We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our Terms of Service.
-9. We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
+**Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.**
 
-## How Chiyoda Moe Secures Your Information?
+7. You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted above, but not otherwise.
 
-Chiyoda Moe takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
+To the extent this agreement is not enforceable by applicable law, you grant Chiyoda Moe the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-To the extent above, we enforce a written security information program, which:
+## Private Repositories
 
-- aligns with industry recognized frameworks;
-- includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our Users' data;
-- is appropriate to the nature, size, and complexity of Chiyoda Moe's business operations;
-- includes incident response and data breach notification processes; and
-- complies with applicable information security-related laws and regulations in the geographic regions where Chiyoda Moe does business.
-  In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected Users without undue delay.
+1. Some Accounts may have private repositories, which allow the User to control access to Content.
+2. Chiyoda Moe considers the contents of private repositories to be confidential to you. Chiyoda Moe will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+3. Chiyoda Moe employees may only access the content of your private repositories in the following situations:
 
-Transmission of data on Chiyoda Moe is encrypted using SSH, HTTPS (TLS), and git repository content is encrypted at rest. We host Chiyoda Moe at our hosting partner, which they provide data centers with high level of physical and network security.
+- With your consent and knowledge, for support reasons. If Chiyoda Moe accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
+- When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of Chiyoda Moe's systems and Service.
 
-**Disclaimer**: No method of transmission, or method of electronic storage, is 100% secure, therefore, we cannot guarantee absolute security.
+4. You may choose to enable additional access to your private repositories. For example: You may enable various Chiyoda Moe services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but Chiyoda Moe will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the Chiyoda Moe Service, we will provide an explanation of those rights.
 
-## Cookies and Tracking Usage
+## Copyright Infringement and DMCA Policy
 
-### Cookies
+If you are copyright owner and believe that content on our website violates your copyright, please contact us at [support@chiyoda.moe](mailto:support@chiyoda.moe). Please note that before sending a takedown notice, consider legal uses (such as fair use and licensed use); and legal consequences for sending false notices.
 
-We uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Chiyoda Moe. For security purposes, we use cookies to identify a device. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device's ability to accept these cookies, you will not be able to log in or use our services.
+## Intellectual Properties and COPYING
 
-### Tracking and Analytics
+Chiyoda Moe and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Chiyoda Moe. All rights reserved.
 
-Out of the box, Gitea doesn't use third-party analytics. In case when we opt in to their usage, we do that to help us evaluate our Users' use of Chiyoda Moe, compile statistical reports on activity, and improve our content and Website performance. We only use these third-party analytics providers on certain areas of our Website, and all of them have signed data protection agreements with us that limit the type of User Personal Information they can collect and the purpose for which they can process the information. In addition, we may also deploy internal analytics software to provide similar functionality.
+If you'd like to use our trademarks, you must follow all of our trademark guidelines.
 
-Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Chiyoda Moe responds to browser DNT signals and follows the W3C standard for responding to DNT signals. If you have not enabled DNT on a browser that supports it, cookies on some parts of our Website will track your online browsing activity on other online services over time, though we do not permit third parties other than our analytics and service providers to track Chiyoda Moe Users' activity over time on Chiyoda Moe.
+This Agreement is licensed under CCO Public Domain License.
 
-## Repository Contents
+## API Terms
 
-Our employees do not access private repositories unless required to for security purposes, for support, to maintain integrity of the Service, or to comply with our legal obligations. While we don't generally search for content in your repositories, we may scan our servers and your content to detect tokens or security signatures, known malwares, or child exploitation imagery.
+Abuse or excessively frequent requests to Chiyoda Moe via the API may result in the temporary or permanent suspension of your Account's access to the API. Chiyoda Moe, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
-If your repository is public, anyone may view its contents. If you include private, confidential or Sensitive Personal Information, such as email addresses or passwords, in your public repository, that information may be indexed by search engines or used by third parties.
+You may not share API tokens to exceed Chiyoda Moe's rate limitations.
 
-## Public Information
+You may not use the API to download data or Content from Chiyoda Moe for spamming purposes, including for the purposes of selling Chiyoda Moe users' personal information, such as to recruiters, headhunters, and job boards.
 
-Many of our services and feature are public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service, such as by viewing your profile or repositories or pulling data via our API. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing Chiyoda Moe information. Other third parties, such as data brokers, have been known to scrape Chiyoda Moe and compile data as well.
+All use of the Chiyoda Moe API is subject to these Terms of Service and the Chiyoda Moe Privacy Statement.
 
-Your User Personal Information associated with your content could be gathered by third parties in these compilations of Chiyoda Moe data. If you do not want your User Personal Information to appear in third parties' compilations of Chiyoda Moe data, please do not make your User Personal Information publicly available and be sure to configure your email address to be private in your user profile and in your git commit settings.
+However, we may provide subscription-based access to our API for Users who need high-throughput access or reselling our Service.
 
-If you would like to compile Chiyoda Moe data, you must comply with our Terms of Service regarding scraping and privacy, and you may only use any public-facing User Personal Information you gather for the purpose for which our user authorized it. For example, where a Chiyoda Moe user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any User Personal Information you have gathered from Chiyoda Moe, and to respond promptly to complaints, removal requests, and "do not contact" requests from Chiyoda Moe or Chiyoda Moe users.
+## Cancellation and Termination
 
-In similar fashion, projects on Chiyoda Moe may include publicly available User Personal Information collected as part of the collaborative events.
+### Account Cancellation
 
-## Organizations
+It is your responsibility to properly cancel your Account with Chiyoda Moe. You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
 
-If you collaborate on or become a member of an Organization, then its Account owners may receive your User Personal Information. When you accept an invitation to an Organization, you will be notified of the types of information owners may be able to see. If you accept an invitation to an Organization with a verified domain, then the owners of that Organization will be able to see your full email address(es) within that Organization's verified domain(s).
+### Upon Cancellation
 
-Please note, Chiyoda Moe may share your username, Usage Information, and Device Information with the owner of the Organization you are a member of, to the extent that your User Personal Information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your Account is cancelled.
 
-If you collaborate with or become a member of an Account that has agreed to a Data Protection Addendum (DPA) to this Privacy Policy, then that DPA governs in the event of conflicts between this Privacy Policy and DPA with respect to your activity in the Account.
+We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
 
-Please contact the Account owners for more information about how they might process your User Personal Information in their Organization and the ways for you to access, update, alter, or delete the User Personal Information stored in the Account.
+Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation or termination. You must make this request within 90 days of cancellation or termination.
 
-## How You Can Access and Control the Information We Collect?
+### We May Terminate
 
-If you're already a Chiyoda Moe user, you may access, update, alter, or delete your basic user information by editing your user profile. You can control the information we collect about you by limiting what information is in your profile, or by keeping your information current.
+Chiyoda Moe has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. Chiyoda Moe reserves the right to refuse service to anyone for any reason at any time.
 
-If Chiyoda Moe processes information about you, such as information receives from third parties, and you do not have an account, then you may, subject to applicable law, access, update, alter, delete, or object to the processing of your personal information by contacting our support.
+### Survival
 
-### Data Portability
+All provisions of this Agreement which, by their nature, should survive termination will survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-As a Chiyoda Moe User, you can always take your data with you. You can clone your repositories to your computer, or you can perform migrations using the provided interfaces, for example.
+## Communications with Us
 
-### Data Retention and Deletion of Data
+### Electronic Communications Required
 
-In general, Chiyoda Moe retains User Personal Information for as long as your account is active, or as needed to provide you service.
+For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
 
-If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. Feel free to contact our support to request erasure of the data we process on the bassis of consent within 30 days.
+### Legal Notices to Us Must Be in Writing
 
-After an account has been deleted, certain data, such as contributions to other Users' repositories and comments in others' issues, will remain. However, we will delete or de-identify your User Personal Information, including your username and email address, from the author field of issues, pull requests, and comments by associating them with a ghost user.
+Communications made through email or Chiyoda Moe Support's messaging system will not constitute legal notice to Chiyoda Moe or any of its officers, employees, agents or representatives in any situation where notice to Chiyoda Moe is required by contract or any law or regulation. Legal notice to Chiyoda Moe must be in writing and served on Chiyoda Moe's legal agent.
 
-That said, the email address you have supplied via your Git commit settings will always be associated with your commits in the Git system. If you choose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
+### No Phone Support
 
-## Our Global Privacy Practices
+We only offer support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
-We store and process the information that we collect in the (country/state where Gitea is deployed) in accordance with this Privacy Statement though our service providers may store and process data outside the (country/state where Gitea is deployed). However, we understand that we have Users from different countries and regions with different privacy expectations, and we try to meet those needs even when the (country/state where Gitea is deployed) does not have the same privacy framework as other countries.
+## Disclaimer of Warranties
 
-We provide a high standard of privacy protection—as described in this Privacy Statement—to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We work hard to comply with the applicable data privacy laws wherever we do business, working with our Data Protection Officer as part of a cross-functional team that oversees our privacy compliance efforts. Additionally, if our vendors or affiliates have access to User Personal Information, they must sign agreements that require them to comply with our privacy policies and with applicable data privacy laws.
+Chiyoda Moe provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
-In particular:
+Chiyoda Moe does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-- Chiyoda Moe provides clear methods of unambiguous, informed, specific, and freely given consent at the time of data collection, when we collect your User Personal Information using consent as a basis.
-- We collect only the minimum amount of User Personal Information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
-- We offer you simple methods of accessing, altering, or deleting the User Personal Information we have collected, where legally permitted.
-- We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it. We also provide our Users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
+## Limitation of Liability
 
-## How We Communicate with You?
+You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from:
 
-We use your email address to communicate with you, if you've said that's okay, and only for the reasons you've said that's okay. For example, if you contact our support with a request, we respond to you via email. You have a lot of control over how your email address is used and shared on and through Chiyoda Moe. You may manage your communication preferences in your user profile.
+the use, disclosure, or display of your User-Generated Content;
+your use or inability to use the Service;
+any modification, price change, suspension or discontinuance of the Service;
+the Service generally or the software or systems that make the Service available;
+unauthorized access to or alterations of your transmissions or data;
+statements or conduct of any third party on the Service;
+any other user interactions that you input or receive through your use of the Service; or any other matter relating to the Service.
+Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-By design, the Git version control system associates many actions with a User's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you're commenting on public repositories, you can create a private email address in your user profile. You should also update your local Git configuration to use your private email address. This will not change how we contact you, but it will affect how others see you.
+## Release and Indemnification
 
-Depending on your email settings, Chiyoda Moe may occasionally send notification emails about changes in a repository you're watching, new features, requests for feedback, important policy changes, or to offer customer support. We also send marketing emails, based on your choices and in accordance with applicable laws and regulations. There's an “unsubscribe” link located at the bottom of each of the marketing emails we send you. Note that you can opt out of any communications with us, except the important ones (like from our support and system emails).
+If you have a dispute with one or more Users, you agree to release Chiyoda Moe from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
-Our emails may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we're not sending you unwanted email.
+You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Chiyoda Moe (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Chiyoda Moe of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-## Changes to this Privacy Policy
+## Changes to These Terms
 
-Although most changes are likely to be minor, Chiyoda Moe may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your account.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+
+## Miscellaneous
+
+### Governing Law
+
+Except to the extent applicable law provides otherwise, this Agreement between you and us and any access to or use of the Website or the Service are governed by (national laws of country/state where Gitea is deployed) and (regional laws of locality where Gitea is deployed), without regard to conflict of law provisions. You and Chiyoda Moe agree to submit to the exclusive jurisdiction and venue of the courts located in (locality where Gitea is deployed).
+
+### Non-Assignability
+
+Chiyoda Moe may assign or delegate these Terms of Service and/or our Privacy Policy in whole or in part, to any person or entity at any time with or without your consent, including the license granted in User-Generated Content. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+
+### Severablity, No Waiver, and Survival
+
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of Chiyoda Moe to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
+
+### Amendments and Complete Agreement
+
+This Agreement may only be modified by a written amendment signed by an authorized representative of Chiyoda Moe, or by the posting by Chiyoda Moe of a revised version in accordance with Changes to These Terms. These Terms of Service, together with the Chiyoda Moe Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Chiyoda Moe relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 ## Contact
 
-If you have any concerns about privacy, please contact us at [support@chiyoda.moe](mailto:support@chiyoda.moe). We will respond promptly, within 45 days.
-
-## COPYING
-
-This document is licensed under CC0 Public Domain License. See full legal code here.
+If you have questions about these Terms of Service, you can contact our support by mail to [support@chiyoda.moe](mailto:support@chiyoda.moe).
