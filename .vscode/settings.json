@@ -7,5 +7,6 @@
     "**/dist/**": true,
     "packages/*/lib/**": true
   },
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

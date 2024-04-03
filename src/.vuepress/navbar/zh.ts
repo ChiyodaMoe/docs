@@ -8,16 +8,10 @@ export const zhNavbar = navbar([
     prefix: "/docs/",
     children: [
       {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        text: "Git",
+        icon: "pajamas:gitea",
+        prefix: "git/",
+        children: [{ text: "如何注册", icon: "mdi:register", link: "register" }, { text: "隐私条款", icon: "material-symbols-light:private-connectivity-rounded", link: "privacy" }, { text: "使用条款", icon: "ri:service-fill", link: "tos" }],
       },
     ],
   },

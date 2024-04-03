@@ -12,11 +12,13 @@ export default hopeTheme({
 
   iconAssets: "iconify",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.webp",
+  favicon: "/logo.webp",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
 
-  docsDir: "src",
+  repo: "https://git.chiyoda.moe/ChiyodaMoe/docs",
+  repoDisplay: true,
+  docsDir: "main",
 
   locales: {
     /**
@@ -62,20 +64,20 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      // "/demo/encrypt.html": ["1234"],
       // "/en/demo/encrypt.html": ["1234"],
     },
   },
 
   plugins: {
-    // You should generate and use your own comment service
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+    // // You should generate and use your own comment service
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "vuepress-theme-hope/giscus-discussions",
+    //   repoId: "R_kgDOG_Pt2A",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    // },
 
     components: {
       components: ["Badge", "VPCard"],

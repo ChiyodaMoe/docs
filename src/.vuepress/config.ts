@@ -7,8 +7,11 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "Chiyoda Moe Docs",
+      description: "Chiyoda Moe 帮助文档。",
+      head: [
+        ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no"}]
+      ]
     },
     // "/en/": {
     //   lang: "en-US",
