@@ -23,3 +23,6 @@ coverage/
 
 # macOS
 .DS_Store
+
+# Debug log
+debug.log
