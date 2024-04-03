@@ -16,5 +16,11 @@ export const zhSidebar = sidebar({
         { text: "使用条款", icon: "ri:service-fill", link: "docs/git/tos" },
       ],
     },
+    {
+      text: "可爱的群友们",
+      icon: "mdi:heart",
+      // 在下方添加您的页面。
+      children: [{ text: "XieXiLin", link: "friends/XieXiLin" }],
+    },
   ],
 });
