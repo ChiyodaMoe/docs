@@ -40,30 +40,30 @@ export default hopeTheme({
     },
 
 
-    /**
-     * English locale config
-     */
-    "/en/": {
-      // navbar
-      navbar: enNavbar,
+    // /**
+    //  * English locale config
+    //  */
+    // "/en/": {
+    //   // navbar
+    //   navbar: enNavbar,
 
-      // sidebar
-      sidebar: enSidebar,
+    //   // sidebar
+    //   sidebar: enSidebar,
 
-      footer: "Default footer",
+    //   footer: "Default footer",
 
-      displayFooter: true,
+    //   displayFooter: true,
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
+    //   metaLocales: {
+    //     editLink: "Edit this page on GitHub",
+    //   },
+    // },
   },
 
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
-      "/en/demo/encrypt.html": ["1234"],
+      // "/en/demo/encrypt.html": ["1234"],
     },
   },
 
