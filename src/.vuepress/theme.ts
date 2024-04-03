@@ -3,14 +3,14 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://docs.chiyoda.moe",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Chiyoda Moe",
+    url: "https://www.chiyoda.moe",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
@@ -29,7 +29,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "版权所有 &copy 2022-present Chiyoda Moe",
 
       displayFooter: true,
 
