@@ -20,7 +20,7 @@ export const zhSidebar = sidebar({
       text: "可爱的群友们",
       icon: "mdi:heart",
       // 在下方添加您的页面。
-      children: [{ text: "XieXiLin", link: "friends/XieXiLin" }],
+      children: [{ text: "XieXiLin", link: "friends/XieXiLin" },{ text: "Bingxin", link: "friends/Bingxin" }],
     },
   ],
 });

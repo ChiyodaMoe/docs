@@ -28,6 +28,6 @@ export const zhNavbar = navbar([
     icon: "mdi:heart",
     prefix: "friends/",
     // 在下方添加您的页面。
-    children: [{ text: "XieXiLin", link: "XieXiLin" }],
+    children: [{ text: "XieXiLin", link: "XieXiLin" },{ text: "Bingxin", link: "Bingxin" }],
   },
 ]);
